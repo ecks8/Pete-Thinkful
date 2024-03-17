@@ -8,7 +8,8 @@ h1 {
 }
 
 nav {
-  margin: 0;
+  margin-left: 10;
+  margin-right: 10;
   padding: 150px 150px;
   display: flex;
   text-align: center;
