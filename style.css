@@ -9,10 +9,10 @@ h1 {
 
 nav {
   margin: 0;
-  padding: 100px 100px;
+  padding: 150px 150px;
   display: flex;
   text-align: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 a:link{
   color: #d62828;
