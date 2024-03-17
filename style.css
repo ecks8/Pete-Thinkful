@@ -8,11 +8,11 @@ h1 {
 }
 
 nav {
-  margin: 10;
+  margin: 0;
   padding: 100px 100px;
   display: flex;
   text-align: center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 a:link{
   color: #d62828;
