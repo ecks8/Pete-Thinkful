@@ -8,7 +8,6 @@ h1 {
 }
 
 nav {
-  float: center;
   margin: 0;
   padding: 14px 16px;
   display: flex;
@@ -25,8 +24,8 @@ body {
   background-color: #eae2b7;
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  margin-left: 250px;
-  margin-right: 250px;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 section {
