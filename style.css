@@ -9,7 +9,7 @@ h1 {
 
 nav {
   float: center;
-  margin: 10;
+  margin: 0;
   padding: 0;
   display: flex;
   text-align: center;
