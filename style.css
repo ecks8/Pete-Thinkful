@@ -10,7 +10,7 @@ h1 {
 nav {
   margin-left: 10;
   margin-right: 10;
-  padding: 150px 150px;
+  padding: 0;
   display: flex;
   text-align: center;
   justify-content: space-around;
