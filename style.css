@@ -13,6 +13,7 @@ nav {
   padding: 0;
   display: flex;
   text-align: center;
+  justify-content: space-around;
 }
 a:link{
   color: #d62828;
@@ -24,8 +25,8 @@ body {
   background-color: #eae2b7;
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  margin-left: 28%;
-  margin-right: 28%;
+  margin-left: 29%;
+  margin-right: 29%;
 }
 
 section {
