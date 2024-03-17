@@ -9,7 +9,7 @@ h1 {
 
 nav {
   width: 30%;
-  margin: 0;
+  margin: 10;
   padding: 0;
   display: flex;
   text-align: center;
@@ -25,8 +25,8 @@ body {
   background-color: #eae2b7;
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 section {
